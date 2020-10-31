@@ -1,0 +1,17 @@
+Liste des classes .ts et .js:
+    public class Client
+    public class CodeBare
+    public class Contact
+    public class Details
+    public class Droit 
+    public class DroitProduit
+    public class Entreprise
+    public class Individu
+    public class Option
+    public class Produit
+    public class GenerateFaker (classe qui lance le programme)
+
+Liste des enums:
+    enum ClientType
+    enum DroitType
+
