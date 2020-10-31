@@ -12,6 +12,38 @@ Liste des classes .ts et .js:
     public class GenerateFaker (classe qui lance le programme)
 
 Liste des enums:
-    enum ClientType
-    enum DroitType
+    public enum ClientType
+    public enum DroitType
+
+Les relations des classes:
+    Client Association(1-*)  Droit
+    Client Association(1-1) CodeBare
+    CodeBare Association(1-*) Produit
+    CodeBare Association(1-*) Option
+    Droit Association(*-*) Produit
+
+    Details Composition Entreprise
+    Details Composition Individu
+    Produit Composition Produit
+    Contact Composition Entreprise
+
+    Option Aggregation Produit 
+
+    Individu Heritage Client
+    Entreprise Heritage Client
+
+Infos importantes:
+    -La classe DroitProduit permet a la relation Droit et Produit (many to many) de fonctionner
+
+    -La relation Produit et Produit (Composition) n'est pas genere dans le fichier json, car cela va entrainer une boucle infinie (meme avec singleton),
+    car chaque produit est oblige d'avoir un produit en composition d'apres le UML.
+    
+
+    
+
+
+
+    
+
+
 
