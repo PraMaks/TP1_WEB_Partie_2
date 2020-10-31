@@ -1,0 +1,403 @@
+{
+	"Clients": [
+		{
+			"id": 0,
+			"code": 46998,
+			"client": {
+				"idClient": 0,
+				"adresse": "6167 Green Dale",
+				"tabDroit": [
+					{
+						"idDroit": "0",
+						"type": "Droit01",
+						"dateDebut": "2020-10-30T10:11:09.224Z",
+						"dateFin": "2021-08-12T05:29:31.339Z"
+					},
+					{
+						"idDroit": "1",
+						"type": "Droit03",
+						"dateDebut": "2020-10-30T06:52:39.997Z",
+						"dateFin": "2021-03-31T12:25:00.145Z"
+					},
+					{
+						"idDroit": "2",
+						"type": "Droit03",
+						"dateDebut": "2020-10-30T20:52:41.149Z",
+						"dateFin": "2020-11-30T05:39:23.966Z"
+					},
+					{
+						"idDroit": "3",
+						"type": "Droit01",
+						"dateDebut": "2020-10-30T05:28:47.702Z",
+						"dateFin": "2021-04-03T05:16:28.380Z"
+					},
+					{
+						"idDroit": "4",
+						"type": "Droit02",
+						"dateDebut": "2020-10-30T14:38:29.267Z",
+						"dateFin": "2021-08-23T13:54:33.834Z"
+					}
+				]
+			},
+			"option": [
+				{
+					"id": 0,
+					"nom": "HDD Home",
+					"description": "Magni pariatur quo numquam et omnis ut rerum odit voluptate."
+				},
+				{
+					"id": 3,
+					"nom": "Toys",
+					"description": "Quae qui aliquid consectetur aliquid."
+				},
+				{
+					"id": 4,
+					"nom": "Salad Creative orchestration",
+					"description": "Earum assumenda et dignissimos totam itaque in quis voluptate."
+				}
+			],
+			"produit": [
+				{
+					"id": 0,
+					"nom": "Unbranded Cotton Computer",
+					"description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+					"produit": null,
+					"option": {
+						"id": 0,
+						"nom": "HDD Home",
+						"description": "Magni pariatur quo numquam et omnis ut rerum odit voluptate."
+					}
+				},
+				{
+					"id": 1,
+					"nom": "Unbranded Steel Sausages",
+					"description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+					"produit": null,
+					"option": {
+						"id": 3,
+						"nom": "Toys",
+						"description": "Quae qui aliquid consectetur aliquid."
+					}
+				},
+				{
+					"id": 2,
+					"nom": "Ergonomic Granite Computer",
+					"description": "The Football Is Good For Training And Recreational Purposes",
+					"produit": null,
+					"option": {
+						"id": 4,
+						"nom": "Salad Creative orchestration",
+						"description": "Earum assumenda et dignissimos totam itaque in quis voluptate."
+					}
+				},
+				{
+					"id": 3,
+					"nom": "Incredible Steel Towels",
+					"description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+					"produit": null
+				},
+				{
+					"id": 4,
+					"nom": "Intelligent Rubber Tuna",
+					"description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+					"produit": null
+				}
+			]
+		},
+		{
+			"id": 1,
+			"code": 27193,
+			"client": {
+				"idClient": 1,
+				"type": 0,
+				"adresse": "559 Gerlach Ramp",
+				"tabDroit": [
+					{
+						"idDroit": "0",
+						"type": "Droit01",
+						"dateDebut": "2020-10-30T10:11:09.224Z",
+						"dateFin": "2021-08-12T05:29:31.339Z"
+					},
+					{
+						"idDroit": "1",
+						"type": "Droit03",
+						"dateDebut": "2020-10-30T06:52:39.997Z",
+						"dateFin": "2021-03-31T12:25:00.145Z"
+					}
+				],
+				"prenom": "Katlyn",
+				"nom": "Bayer",
+				"email": "Katherine_Leannon2@yahoo.com",
+				"details": {
+					"idDetails": 4,
+					"rue": "797 Lelia Points",
+					"ville": "Binsburgh",
+					"province": "Connecticut"
+				}
+			},
+			"option": [
+				{
+					"id": 0,
+					"nom": "HDD Home",
+					"description": "Magni pariatur quo numquam et omnis ut rerum odit voluptate."
+				}
+			],
+			"produit": [
+				{
+					"id": 0,
+					"nom": "Unbranded Cotton Computer",
+					"description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+					"produit": null,
+					"option": {
+						"id": 0,
+						"nom": "HDD Home",
+						"description": "Magni pariatur quo numquam et omnis ut rerum odit voluptate."
+					}
+				}
+			]
+		},
+		{
+			"id": 2,
+			"code": 31404,
+			"client": {
+				"idClient": 2,
+				"type": 1,
+				"adresse": "44023 Homenick Ports",
+				"tabDroit": [
+					{
+						"idDroit": "0",
+						"type": "Droit01",
+						"dateDebut": "2020-10-30T10:11:09.224Z",
+						"dateFin": "2021-08-12T05:29:31.339Z"
+					}
+				],
+				"nom": "Hegmann, Cartwright and Runte",
+				"phone": "331-785-5264",
+				"fax": "Marjorie14@yahoo.com",
+				"details": {
+					"idDetails": 0,
+					"rue": "51989 Schinner Canyon",
+					"ville": "Port Nova",
+					"province": "South Carolina"
+				},
+				"contact": {
+					"nom": "Bayer",
+					"prenom": "Rosalee",
+					"email": "Guido_Reichert@yahoo.com"
+				}
+			},
+			"option": [
+				{
+					"id": 0,
+					"nom": "HDD Home",
+					"description": "Magni pariatur quo numquam et omnis ut rerum odit voluptate."
+				},
+				{
+					"id": 3,
+					"nom": "Toys",
+					"description": "Quae qui aliquid consectetur aliquid."
+				},
+				{
+					"id": 4,
+					"nom": "Salad Creative orchestration",
+					"description": "Earum assumenda et dignissimos totam itaque in quis voluptate."
+				}
+			],
+			"produit": [
+				{
+					"id": 0,
+					"nom": "Unbranded Cotton Computer",
+					"description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+					"produit": null,
+					"option": {
+						"id": 0,
+						"nom": "HDD Home",
+						"description": "Magni pariatur quo numquam et omnis ut rerum odit voluptate."
+					}
+				},
+				{
+					"id": 1,
+					"nom": "Unbranded Steel Sausages",
+					"description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+					"produit": null,
+					"option": {
+						"id": 3,
+						"nom": "Toys",
+						"description": "Quae qui aliquid consectetur aliquid."
+					}
+				},
+				{
+					"id": 2,
+					"nom": "Ergonomic Granite Computer",
+					"description": "The Football Is Good For Training And Recreational Purposes",
+					"produit": null,
+					"option": {
+						"id": 4,
+						"nom": "Salad Creative orchestration",
+						"description": "Earum assumenda et dignissimos totam itaque in quis voluptate."
+					}
+				}
+			]
+		},
+		{
+			"id": 3,
+			"code": 13066,
+			"client": {
+				"idClient": 3,
+				"adresse": "650 Hal View",
+				"tabDroit": [
+					{
+						"idDroit": "0",
+						"type": "Droit01",
+						"dateDebut": "2020-10-30T10:11:09.224Z",
+						"dateFin": "2021-08-12T05:29:31.339Z"
+					},
+					{
+						"idDroit": "1",
+						"type": "Droit03",
+						"dateDebut": "2020-10-30T06:52:39.997Z",
+						"dateFin": "2021-03-31T12:25:00.145Z"
+					}
+				]
+			},
+			"option": [
+				{
+					"id": 0,
+					"nom": "HDD Home",
+					"description": "Magni pariatur quo numquam et omnis ut rerum odit voluptate."
+				},
+				{
+					"id": 3,
+					"nom": "Toys",
+					"description": "Quae qui aliquid consectetur aliquid."
+				},
+				{
+					"id": 4,
+					"nom": "Salad Creative orchestration",
+					"description": "Earum assumenda et dignissimos totam itaque in quis voluptate."
+				}
+			],
+			"produit": [
+				{
+					"id": 0,
+					"nom": "Unbranded Cotton Computer",
+					"description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+					"produit": null,
+					"option": {
+						"id": 0,
+						"nom": "HDD Home",
+						"description": "Magni pariatur quo numquam et omnis ut rerum odit voluptate."
+					}
+				},
+				{
+					"id": 1,
+					"nom": "Unbranded Steel Sausages",
+					"description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+					"produit": null,
+					"option": {
+						"id": 3,
+						"nom": "Toys",
+						"description": "Quae qui aliquid consectetur aliquid."
+					}
+				},
+				{
+					"id": 2,
+					"nom": "Ergonomic Granite Computer",
+					"description": "The Football Is Good For Training And Recreational Purposes",
+					"produit": null,
+					"option": {
+						"id": 4,
+						"nom": "Salad Creative orchestration",
+						"description": "Earum assumenda et dignissimos totam itaque in quis voluptate."
+					}
+				},
+				{
+					"id": 3,
+					"nom": "Incredible Steel Towels",
+					"description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+					"produit": null
+				}
+			]
+		},
+		{
+			"id": 4,
+			"code": 92783,
+			"client": {
+				"idClient": 4,
+				"type": 0,
+				"adresse": "071 Pauline Cliff",
+				"tabDroit": [
+					{
+						"idDroit": "0",
+						"type": "Droit01",
+						"dateDebut": "2020-10-30T10:11:09.224Z",
+						"dateFin": "2021-08-12T05:29:31.339Z"
+					},
+					{
+						"idDroit": "1",
+						"type": "Droit03",
+						"dateDebut": "2020-10-30T06:52:39.997Z",
+						"dateFin": "2021-03-31T12:25:00.145Z"
+					},
+					{
+						"idDroit": "2",
+						"type": "Droit03",
+						"dateDebut": "2020-10-30T20:52:41.149Z",
+						"dateFin": "2020-11-30T05:39:23.966Z"
+					},
+					{
+						"idDroit": "3",
+						"type": "Droit01",
+						"dateDebut": "2020-10-30T05:28:47.702Z",
+						"dateFin": "2021-04-03T05:16:28.380Z"
+					}
+				],
+				"prenom": "Nora",
+				"nom": "Stiedemann",
+				"email": "Elta_Keeling@gmail.com",
+				"details": {
+					"idDetails": 3,
+					"rue": "941 Josefa Falls",
+					"ville": "Port Orrin",
+					"province": "Montana"
+				}
+			},
+			"option": [
+				{
+					"id": 0,
+					"nom": "HDD Home",
+					"description": "Magni pariatur quo numquam et omnis ut rerum odit voluptate."
+				},
+				{
+					"id": 3,
+					"nom": "Toys",
+					"description": "Quae qui aliquid consectetur aliquid."
+				}
+			],
+			"produit": [
+				{
+					"id": 0,
+					"nom": "Unbranded Cotton Computer",
+					"description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+					"produit": null,
+					"option": {
+						"id": 0,
+						"nom": "HDD Home",
+						"description": "Magni pariatur quo numquam et omnis ut rerum odit voluptate."
+					}
+				},
+				{
+					"id": 1,
+					"nom": "Unbranded Steel Sausages",
+					"description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+					"produit": null,
+					"option": {
+						"id": 3,
+						"nom": "Toys",
+						"description": "Quae qui aliquid consectetur aliquid."
+					}
+				}
+			]
+		}
+	]
+}

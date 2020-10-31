@@ -1,0 +1,79 @@
+{
+	"DroitsProduits": [
+		{
+			"droit": {
+				"idDroit": "2",
+				"type": "Droit03",
+				"dateDebut": "2020-10-30T20:52:41.149Z",
+				"dateFin": "2020-11-30T05:39:23.966Z"
+			},
+			"produit": {
+				"id": 3,
+				"nom": "Incredible Steel Towels",
+				"description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+				"produit": null
+			}
+		},
+		{
+			"droit": {
+				"idDroit": "0",
+				"type": "Droit01",
+				"dateDebut": "2020-10-30T10:11:09.224Z",
+				"dateFin": "2021-08-12T05:29:31.339Z"
+			},
+			"produit": {
+				"id": 3,
+				"nom": "Incredible Steel Towels",
+				"description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+				"produit": null
+			}
+		},
+		{
+			"droit": {
+				"idDroit": "3",
+				"type": "Droit01",
+				"dateDebut": "2020-10-30T05:28:47.702Z",
+				"dateFin": "2021-04-03T05:16:28.380Z"
+			},
+			"produit": {
+				"id": 0,
+				"nom": "Unbranded Cotton Computer",
+				"description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+				"produit": null,
+				"option": {
+					"id": 0,
+					"nom": "HDD Home",
+					"description": "Magni pariatur quo numquam et omnis ut rerum odit voluptate."
+				}
+			}
+		},
+		{
+			"droit": {
+				"idDroit": "3",
+				"type": "Droit01",
+				"dateDebut": "2020-10-30T05:28:47.702Z",
+				"dateFin": "2021-04-03T05:16:28.380Z"
+			},
+			"produit": {
+				"id": 3,
+				"nom": "Incredible Steel Towels",
+				"description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+				"produit": null
+			}
+		},
+		{
+			"droit": {
+				"idDroit": "2",
+				"type": "Droit03",
+				"dateDebut": "2020-10-30T20:52:41.149Z",
+				"dateFin": "2020-11-30T05:39:23.966Z"
+			},
+			"produit": {
+				"id": 3,
+				"nom": "Incredible Steel Towels",
+				"description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+				"produit": null
+			}
+		}
+	]
+}
